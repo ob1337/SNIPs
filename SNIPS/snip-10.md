@@ -2,6 +2,7 @@
 snip: 10
 title:  STRK fee token
 author: Evyatar Oster <@evyataro>, Ohad Barta <ohad@starkware.co>
+discussions-to: https://community.starknet.io/t/snip-strk-fee-token/101924
 status: Draft
 type: Standards Track
 category: Core
