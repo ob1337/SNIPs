@@ -1,6 +1,6 @@
 
 ---
-snip: 6
+snip: 9
 title: SNIP STRK fee token
 authors: Evyatar Oster <@evyataro>, Ohad Barta <ohad@starkware.co>
 status: Draft
