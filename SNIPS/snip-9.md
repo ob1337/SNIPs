@@ -1,13 +1,13 @@
-
 ---
-snip: 9
-title: SNIP STRK fee token
-authors: Evyatar Oster <@evyataro>, Ohad Barta <ohad@starkware.co>
+snip: 10
+title:  STRK fee token
+author: Evyatar Oster <@evyataro>, Ohad Barta <ohad@starkware.co>
 status: Draft
-type: Standarts Track
+type: Standards Track
 category: Core
 created: 2023-10-23
 ---
+
 
 ## Simple Summary
 This SNIP outlines the semantics of transaction V3, and the protocol and API changes required to facilitate STRK as a fee token. Older transaction versions will continue to be supported, thus maintaining ETH as a fee token. It also specifies the first STRK <> ETH price feed to be used, a trusted off-chain oracle provided by [Pragma](https://www.pragmaoracle.com/). 
